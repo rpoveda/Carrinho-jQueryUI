@@ -1,0 +1,40 @@
+﻿.produto
+{
+    border:1px solid red;
+    width:200px;
+    height:330px;
+    overflow:hidden;
+    float:left;
+    display:block;
+    margin:5px 5px;
+}
+.produto p 
+{
+    text-align:center;
+}
+.produto img
+{
+    width:200px;
+    margin:0 auto;
+    height:200px;
+}
+.produto:hover
+{
+    border:1px solid black;
+}
+.produto .qnt
+{
+    padding:5px 5px;
+    display:block;
+    margin-left:15px;
+}
+
+/*Estilo carrinho*/
+#carrinho
+{
+    display:block;
+    border:5px solid green;
+    width:250px;
+    float:right;
+    height:300px;
+}

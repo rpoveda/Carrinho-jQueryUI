@@ -1,0 +1,5 @@
+c:\users\rpoveda\documents\visual studio 2010\Projects\CarrinhojQueryUI\CarrinhojQueryUI\bin\CarrinhojQueryUI.dll
+c:\users\rpoveda\documents\visual studio 2010\Projects\CarrinhojQueryUI\CarrinhojQueryUI\bin\CarrinhojQueryUI.pdb
+c:\users\rpoveda\documents\visual studio 2010\Projects\CarrinhojQueryUI\CarrinhojQueryUI\obj\Debug\ResolveAssemblyReference.cache
+c:\users\rpoveda\documents\visual studio 2010\Projects\CarrinhojQueryUI\CarrinhojQueryUI\obj\Debug\CarrinhojQueryUI.dll
+c:\users\rpoveda\documents\visual studio 2010\Projects\CarrinhojQueryUI\CarrinhojQueryUI\obj\Debug\CarrinhojQueryUI.pdb
